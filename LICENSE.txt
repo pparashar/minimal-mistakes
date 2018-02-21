@@ -1,6 +1,11 @@
+POSTS - one paragraph of each post can be used without permission. Reproducing entire posts require written permission of author.
+
+THE MIT License applicable to Jekyll Theme only. 
+
+
 The MIT License (MIT)
 
-Copyright (c) 2013-2018 Michael Rose and contributors
+Copyright (c) 2013-2018 Michael Rose and contributors, applicable to theme only. Posts Copyright (c) 2008-2018 Prashant Parashar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

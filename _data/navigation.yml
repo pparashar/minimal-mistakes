@@ -1,12 +1,9 @@
 # main links
+# main links links
 main:
-  - title: "Featured"
-      url: "/category/#featured"
   - title: "About"
-      url: "/about/"
+    url: /about/
+  - title: "Featured"
+    url: /category/
   - title: "Contact"
-      url: "/contact/"
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /contact/

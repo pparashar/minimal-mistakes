@@ -20,9 +20,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus","facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : prashantparashar # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "prashantparashar" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -61,7 +61,7 @@ algolia:
   powered_by             : # true (default), false
 
 # SEO Related
-google_site_verification : 1WhpPJivsN9tuuYw7lwZTGWHZo8B9E7LuJmNrmZOSAU
+google_site_verification : "1WhpPJivsN9tuuYw7lwZTGWHZo8B9E7LuJmNrmZOSAU"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :

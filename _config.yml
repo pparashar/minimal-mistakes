@@ -259,5 +259,23 @@ defaults:
       comments: true
       share: true
       related: true
+  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false  
+
+sidebar:
+  - title: ""
+    image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
+    image_alt: "zomato.com"
+    text: "Proudly building."
+
 
 timezone: "Asia/Calcutta"

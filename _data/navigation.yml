@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Featured"
-    url: "/featured/"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: "/category/#featured"
+  - title: "About"
+     url: "/about/"
+  - title: "Contact"
+     url: "/contact/"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

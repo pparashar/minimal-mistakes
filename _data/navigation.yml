@@ -1,15 +1,9 @@
 # main links
 # main links links
 main:
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/
   - title: "Featured"
     url: /category/
-  - title: "Contact"
-    url: /contact/
-
-sidebar:
-  - title: ""
-    image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
-    image_alt: "zomato.com"
-    text: "Proudly building."
+#  - title: "Contact"
+#    url: /contact/

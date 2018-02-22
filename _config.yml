@@ -259,7 +259,12 @@ defaults:
       comments: true
       share: true
       related: true
-  # _posts
+      sidebar:
+         - title: ""
+           image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
+           image_alt: "zomato.com"
+           text: "Proudly building."
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -271,11 +276,11 @@ defaults:
       share: false
       related: false  
 
-sidebar:
-  - title: ""
-    image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
-    image_alt: "zomato.com"
-    text: "Proudly building."
+#sidebar:
+#  - title: ""
+#    image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
+#    image_alt: "zomato.com"
+#    text: "Proudly building."
 
 
 timezone: "Asia/Calcutta"

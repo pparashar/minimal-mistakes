@@ -262,7 +262,7 @@ defaults:
       sidebar:
          - image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
            image_alt: "https://zomato.com"
-           text: "<span style='text-align:center'>Proudly building.</span>"
+           text: "Proudly building."
   # _pages
   - scope:
       path: ""
@@ -274,6 +274,10 @@ defaults:
       comments: false
       share: false
       related: false  
+      sidebar:
+         - image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
+           image_alt: "https://zomato.com"
+           text: "Proudly building."
 
 #sidebar:
 #  - title: ""

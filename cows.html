@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+   </head>
+
+<body>
+
+<div class="container-fluid">
+  <div class="row">
+   <h2 class="col-xs-12 text-center">&#x1f42e;&#x1f42e;&#x1f42e; n &#x1f403;&#x1f403;&#x1f403;</h2> 
+  </div>
+  <div class="cgame">
+  	<div class="row">
+   		<h3 class="col-xs-12 text-center cgamehead">Loading word...</h3>
+  	</div>
+	<div class="row" class="col-xs-12 text-center">
+		<a data-toggle="collapse" href="#helptxt" aria-expanded="false" aria-controls="helptxt" class="alert-info"><div class="text-center">Guess the 4 letter word <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span></div></a> 
+		<div class="collapse" id="helptxt">
+			<div class="col-xs-2">&nbsp;</div>
+  			<div class="well alert alert-info text-center col-xs-8">
+			<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>&nbsp; 
+For every letter &amp; place match, you'll see a &#x1f403; and for just letter match but no place match you'll see a &#x1f42e;(not counting the letter matches that were included in &#x1f403;)<br/> When nothing matches you get a a &#x1f43d; <br/> Enter a word with repeat letters e.g. kill  or word which isn't a  4-letter word, you get &#x1f47f; 
+			</div>
+			<div class="col-xs-2">&nbsp;</div>
+	        </div>
+	</div>
+	<div class="row">
+		<table class="table table-condensed text-center table-striped" id="gametbl">
+		</table>
+  	</div>
+	<div class="row" >
+		<div><p>&nbsp;<br/></p></div>
+		<div id="adv"></div>	
+	</div>
+        <div class="row thein">
+		<form class="form-inline text-center hide cgameinform" id="cgameform" onsubmit="clickhua(null);return false;">
+  		<div class="form-group">
+    			<input type="text" maxlength="4" class="form-control" id="cgamein" placeholder="guess da word">
+  		</div>
+  		<button type="button" class="btn btn-sm btn-danger cgamebtn">Guess?</button>
+		</form>
+	</div>
+  </div>
+</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+      <script src="/assets/js/smallwordlist.js"></script>
+
+<script>
+var theword="";
+var score = 11;  
+$( document ).ready(function() {
+    loadtheword();
+    $( ".cgamehead" ).html( "Game ON" );
+    $("#cgameform").removeClass("hide");
+  });
+
+function clickhua( event ) {
+        --score;
+        $('.collapse').collapse('hide');
+        $( ".cgamehead" ).html( "Game ON <span class='badge'>" +score + "<\/span>");
+     var val = $("#cgamein").val().toLowerCase();
+     if(val=="xxxy") val = theword;
+     processInput(val);         
+}
+
+
+$(".cgamebtn").on( "click",clickhua);
+
+
+function showad(){
+
+	$("#adv").html('<script async src="\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js"><\/script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3706436124859942" data-ad-slot="1145990174" data-ad-format="auto"><\/ins> <script> (adsbygoogle = window.adsbygoogle || []).push({});<\/script>');
+
+
+}
+
+
+function processInput(val){
+	var appendstr = "";
+	if(validword(val) === false) {
+		appendstr = "<tr class='danger'><td>" + val + "</td><td>&#x1f47f;</td></tr>" ;
+	} else if(val == theword) {
+		appendstr = "<tr class='success'><td>" + val + "</td><td>&#x1f483; WIN</td></tr>" ;
+		$("#cgameform").html("<h2>शाबाश, वाह-वाह! You Win! Score = " + score + " </h2><p><input type='button' value='Play Again' class='btn-success  btn-lg' onclick='location.reload()'/></p>");
+		showad();
+		_gaq.push(['_trackEvent','cowsgame','win',theword, score]);
+	}else {
+		var bufs = 0;
+		var cows = 0;
+		for(i=0; i<4; ++i) {
+			var c = val.charAt(i);
+			if(theword.indexOf(c)>=0){
+				if(theword.indexOf(c)==i) { ++bufs; /*alert(i + "=i and c in val= " + c + " indexInword=" + theword.indexOf(c));*/}
+				else { ++cows; /*alert(i + "=i and c in val= " + c + " indexInword=" + theword.indexOf(c));*/}
+			}	
+		}
+		if(bufs ==0 && cows ==0){
+			appendstr = "<tr class='danger'><td>" + val + "</td><td>&#x1f43d;</td></tr>" ;
+		}else{
+			var cowsstr = "";
+			var bufsstr = "";
+			for(i=0; i < cows; ++i){
+				cowsstr+="&#x1f42e;";
+			}
+			for(i=0; i< bufs; ++i) {
+				bufsstr += "&#x1f403;";	
+			}
+			appendstr = "<tr><td>" + val + "</td><td>" + cowsstr + " " + bufsstr + "</td></tr>" ;
+		}
+		$("#cgamein").val("");
+	}
+	if(score ==0 && val!=theword){
+		$("#cgameform").html("<h2>तुमसे ना हो पाएगा! Word is " + theword + " </h2><p><input type='button' value='New Game' class='btn-danger btn-lg' onclick='location.reload()'/></p>"); 
+		showad();
+		 _gaq.push(['_trackEvent','cowsgame','lose',theword, score]);
+	}
+	
+	$("#gametbl").append(appendstr);
+
+}
+
+function loadtheword() {
+   var indx = Math.floor(Math.random() * wordlist.length);
+   //alert(indx);
+   theword = wordlist[indx].toLowerCase();
+   //alert("word is  " + theword);
+}
+
+function validword(w){
+   if(w.length != 4) {
+       return false;
+   }
+   for(i=0; i< w.length-1; ++i) {
+      for(j=i+1; j<w.length; ++j){
+         if(w.charAt(i) == w.charAt(j))
+             return false;
+      }
+   }   
+   return true;
+}
+
+
+function convertFromHex(hex) {
+    var hex = hex.toString();//force conversion
+    var str = '';
+    for (var i = 0; i < hex.length; i += 2)
+        str += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    return str;
+}
+
+function convertToHex(str) {
+    var hex = '';
+    for(var i=0;i<str.length;i++) {
+        hex += ''+str.charCodeAt(i).toString(16);
+    }
+    return hex;
+}
+
+</script>
+</body>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-572757-11");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</html>
+

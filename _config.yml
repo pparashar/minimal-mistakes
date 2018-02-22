@@ -260,10 +260,9 @@ defaults:
       share: true
       related: true
       sidebar:
-         - title: ""
-           image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
+         - image: "/wp-content/uploads/2009/12/zomato_favicon5-144x144.png"
            image_alt: "https://zomato.com"
-           text: "Proudly building."
+           text: "<span style='text-align:center'>Proudly building.</span>"
   # _pages
   - scope:
       path: ""

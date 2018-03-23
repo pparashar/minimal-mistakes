@@ -25,4 +25,3 @@ tags:
 1. Have application level failsafe.
 1. Use distributed cache that is scalable. Memcache, Terracota and Jboss cache are good examples.
 1. Use NoSQl or Bigtable like distributed databases such as Cassandra, MongoDB, Hypertable, CouchDB or HBase (for Hadoop)
-

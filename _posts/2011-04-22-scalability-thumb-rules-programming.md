@@ -1,5 +1,5 @@
 ---
-title: Scalability Thumb Rules for Programmers
+title: Scalability Thumb Rules for Programmers (2011)
 date: 2011-04-24
 categories:
   - Scalability
@@ -8,7 +8,6 @@ tags:
   - Scalability
 ---
 
-# Scalability Thumb Rules for Programmers (2011)
 
 1. Avoid Synchronization. Keep it short.
 1. Use lock-free data structures and those in java.util.concurrent.atomic

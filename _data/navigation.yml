@@ -4,6 +4,6 @@ main:
 #  - title: "About"
 #    url: /about/
   - title: "Featured"
-    url: "/category/"
+    url: "/category/&#35;featured"
 #  - title: "Contact"
 #    url: /contact/

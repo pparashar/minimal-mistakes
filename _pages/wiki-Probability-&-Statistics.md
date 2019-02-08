@@ -9,6 +9,6 @@ permalink: /awesome-resources-bookmarks-probability-statistics/
 1. [Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/data-analysis.html)
 1. [Probability Course - book](http://www.math.uah.edu/stat/index.html)
-1. [Elements of statistical learning book](http://statweb.stanford.edu/~tibs/ElemStatLearn/) | [here](https://web.stanford.edu/~hastie/ElemStatLearn/)
+1. [Elements of statistical learning book](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - [here](https://web.stanford.edu/~hastie/ElemStatLearn/)
 1. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 2. [Notes from Course on Probablistic Graphical Models](https://ermongroup.github.io/cs228-notes/)

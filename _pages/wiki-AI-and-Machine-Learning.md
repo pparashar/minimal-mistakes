@@ -15,7 +15,7 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 1. [Online Course on Neural Networks by Hugo Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 1. [Applied Deep Learning Tutorial](https://medium.com/towards-data-science/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
-1. [Lecture Collection | Convolutional Neural Networks for Visual Recognition Spring 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+1. [Lecture Collection - Convolutional Neural Networks for Visual Recognition Spring 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 1. [Kaggle Competition Solutions](http://ndres.me/kaggle-past-solutions/)
 1. [Developing Bug Free Machine Learning using Mathematics](https://arxiv.org/pdf/1706.08605.pdf)
 1. [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
@@ -55,7 +55,7 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 1. [THE Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 1. [RNN Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial)
 2. [Machine Learning in Python](https://www.springboard.com/learning-paths/machine-learning-python/)
-3. [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) | [http://deeplearning.stanford.edu/tutorial/]
+3. [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) , [http://deeplearning.stanford.edu/tutorial/]
 4. [Python Sciekit](http://scikit-learn.org/)
 5. [Getting started with TensorFlow](https://www.tensorflow.org/get_started)
 6. [Deep Learning Book - MIT Press](http://www.deeplearningbook.org/)
@@ -64,8 +64,8 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 7. [Deep Learning Comprehensive Course by Google](https://www.udacity.com/course/deep-learning--ud730)
 7. [Learn TensorFlow and Deep Learning without PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 7. [tflearn - to learn Tensorflow](http://tflearn.org/)
-7. [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) [todo - to explode]
-7. [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) [todo - to explode]
+7. [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
+7. [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 7. [Intelligence and Learning- introduction videos](https://www.youtube.com/user/shiffman)
 
 
@@ -85,7 +85,7 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 
 ### Recommendation
 1. [Netflix 3rd](http://sifter.org/~simon/journal/20061211.html)
-1. 
+
 #### Papers
 1. [Foundations of Deep Learning](https://github.com/pauli-space/foundations_for_deep_learning)
 1. [Learning Collaborative Information Filters](http://www.aaai.org/Papers/Workshops/1998/WS-98-08/WS98-08-005.pdf)

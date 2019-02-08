@@ -2,7 +2,8 @@
 title: Awesome List - Learning Computer Science & Maths
 permalink: /awesome-resources-bookmarks-learning-computer-science-maths/
 ---
-** Maths
+## Maths
+**Plan/sequence to learn maths for computer science**
 Tl:dr- In order; graph theory, linear algebra, number theory, and multi-criteria decision analysis. Game theory, set theory, nonlinearity, computational geometry a bonus.
 Let's say you're learning some new algorithms. Your list might look something like the below list[1]. I'll add in brackets the sort of math you learn about by learning the algo if you get lost down the wiki-rabbit-hole. If you want to solve other similar problems, more of that sort of math will help.
 1. Graph algorithms [graph theory]: Breadth first search(BFS), Depth first search(DFS), Strongly connected components(SCC), Dijkstra, Floyd-Warshall, Minimum spanning tree(MST), Topological sort.
@@ -21,12 +22,12 @@ Let's say you're learning some new algorithms. Your list might look something li
 1. [Calculus Revisited: Single Variable Calculus MIT](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/index.htm) 
 1. [Calculus Revisited: Multivariable Calculus MIT](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/index.htm)
 1. [Complex Variables, Differential Equations, and Linear Algebra - MIT](https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/index.htm)
-1. [Linear Algebra | MIT](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
-1. [Introduction to Linear Dynamical Systems |Stanford](https://see.stanford.edu/Course/EE263)
-1. [Probability | Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-1. [Intermediate Statistics | CMU](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF)
-1. [Convex Optimization I | Stanford](https://see.stanford.edu/Course/EE364A)
-1. [Math Background for ML | CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
+1. [Linear Algebra - MIT](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
+1. [Introduction to Linear Dynamical Systems -Stanford](https://see.stanford.edu/Course/EE263)
+1. [Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+1. [Intermediate Statistics - CMU](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF)
+1. [Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
+1. [Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
 
 *** Other sequential courses for self learning
 1. [Sequential Math course from Math Stack Columbia University](http://stacks.math.columbia.edu/)

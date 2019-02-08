@@ -8,3 +8,6 @@ permalink: /awesome-resources-bookmarks-yy-tech-for-kids/
 1. [Scratch by mit](https://scratch.mit.edu/download)
 1. [Chess study plan](https://www.chess.com/article/view/study-plan-directory)
 
+### Non-Tech
+1. [Out of the Shruti Box - non traditional introduction to classical music](https://www.youtube.com/channel/UCs6OTIFV53Z-EGT84lxTvqQ)
+

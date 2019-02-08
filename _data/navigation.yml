@@ -1,8 +1,8 @@
 # main links
 # main links links
 main:
-#  - title: "About"
-#    url: /about/
+  - title: "Awesome Bookmarks"
+    url: /awesome-resources-useful-bookmarks
   - title: "Featured"
     url: "/category/&#35;featured"
 #  - title: "Contact"

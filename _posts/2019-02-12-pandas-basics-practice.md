@@ -573,7 +573,7 @@ df.state.value_counts().plot(kind='bar')
 
 
 
-![png](output_14_1.png)
+![png](/img/20190212_output.png)
 
 
 

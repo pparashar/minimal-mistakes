@@ -35,8 +35,11 @@
   {%- assign page_large_image = page_large_image | absolute_url -%}
 {%- endunless -%}
 {%- assign page_large_image = page_large_image | escape -%}
-
-{%- assign page_teaser_image = page.header.teaser | default: site.og_image -%}
+{%- assign default_site_og_image = site.og_image -%}
+{%- if page.date -%}
+    {%- assign default_site_og_image = "/assets/img/code_icon.jpg" -%}
+{%- endif -%}
+{%- assign page_teaser_image = page.header.teaser | default: default_site_og_image -%}
 {%- unless page_teaser_image contains '://' -%}
   {%- assign page_teaser_image = page_teaser_image | absolute_url -%}
 {%- endunless -%}
@@ -130,8 +133,10 @@
     {
       "@context": "http://schema.org",
       "@type": "Organization",
-      "url": {{ seo_url | jsonify }},
-      "logo": {{ site_og_image | jsonify }}
+      "url": {{ seo_url | jsonify }}
+    {% if og_type == "website" %}
+      ,"logo": {{ site_og_image | jsonify }}
+    {% endif %}
     }
   </script>
 {% endif %}

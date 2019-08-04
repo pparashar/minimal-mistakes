@@ -1,7 +1,6 @@
 ---
 permalink: /alexaterms/
 title: "Alexa/Google Home Skill Terms and Privacy Policy"
-last_modified_at: 2019-08-04
 toc: false
 ---
 

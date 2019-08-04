@@ -85,6 +85,7 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 
 ### Recommendation
 1. [Netflix 3rd](http://sifter.org/~simon/journal/20061211.html)
+1. [Make your own Recommendation System](https://towardsdatascience.com/make-your-own-recommendation-system-b596d847296d)
 
 #### Papers
 1. [Foundations of Deep Learning](https://github.com/pauli-space/foundations_for_deep_learning)
@@ -104,6 +105,13 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 
 ### Tools
 1. [SyntaxNet](https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html)
+
+### Learn Data Science
+1. [Datalab.cc](https://datalab.cc/)
+1. [Introduction to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+1. [Code free Data Science](https://www.coursera.org/learn/code-free-data-science)
+1. [Data Science Essentials Course by MIT and Microsoft](https://www.edx.org/course/data-science-essentials)
+1. [Coursera Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 
 ### Other
 1. [Speech to text Sphinx](http://stackoverflow.com/questions/23491630/hindi-speech-to-text-using-sphinx4-in-java)

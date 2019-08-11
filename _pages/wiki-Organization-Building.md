@@ -14,6 +14,7 @@ permalink: /awesome-resources-bookmarks-organization-building/
 1. [Culture and Revolution](https://a16z.com/2017/03/04/culture-and-revolution-ben-horowitz-toussaint-louverture/)
 1. [Giving and getting feedback](https://a16z.com/2017/05/25/feedback-radical-candor/)
 1. [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202)
+1. [Mentors Are Good. Coaches Are Better](https://www.linkedin.com/pulse/mentors-good-coaches-better-adam-grant)
 ## Org Structures/Functional vs Unit
 1. [Organization Structure and transitioning](https://blog.learningbyshipping.com/2013/07/13/one-strategy-blog-post-reprint/)
 1. [Functional vs Unit Organization](https://medium.learningbyshipping.com/functional-versus-unit-organizations-6b82bfbaa57)
@@ -33,4 +34,5 @@ permalink: /awesome-resources-bookmarks-organization-building/
 1. [Keynote 2: Dinah McNutt, Release Engineering, Google Inc.](https://www.youtube.com/watch?v=RNMjYV_UsQ8)
 1. [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
 
-
+## Agile
+1. [Why do some developers at strong companies like Google consider Agile development to be nonsense](https://news.ycombinator.com/item?id=20600128)

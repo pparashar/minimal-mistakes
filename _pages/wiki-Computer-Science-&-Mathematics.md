@@ -21,6 +21,9 @@ permalink: /awesome-resources-bookmarks-computer-science-mathematics/
 1. [Modern Microprocessors A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/)
 1. [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 1. [Papers by Leslie Lamport on Computer Sc & Maths](http://lamport.azurewebsites.net/pubs/pubs.html)
+1. [Structure and Interpretation of Computer Programs BOOK](https://github.com/sarabander/sicp-pdf) , [another](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+1. [Algorithms by Jeff Erickson BOOK](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
+1. [Build your own operating system](https://news.ycombinator.com/item?id=18023062), [2](https://github.com/tuhdo/os01), [3](http://himmele.blogspot.com/2011/07/build-your-own-operating-system.html)
 
 ## Data Structures
 1. [Red Black BST Implementation in Java](http://algs4.cs.princeton.edu/33balanced/RedBlackBST.java.html)
@@ -68,3 +71,4 @@ permalink: /awesome-resources-bookmarks-computer-science-mathematics/
 1. [Programmer's guide to polynomials and splines](http://wordsandbuttons.online/programmers_guide_to_polynomials_and_splines.html)
 1. [Book - Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
 1. [Awesome lists](https://github.com/sindresorhus/awesome)
+1. [Princeton Mathematics for Computer Sc](https://www.cs.princeton.edu/courses/archive/spring14/cos340/LLM.pdf)

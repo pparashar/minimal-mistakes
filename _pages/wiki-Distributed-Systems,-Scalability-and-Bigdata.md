@@ -26,6 +26,8 @@ permalink: /awesome-resources-bookmarks-distributed-systems-scalability-and-bigd
 1. [How Twitter handles image uploads](http://highscalability.com/blog/2016/4/20/how-twitter-handles-3000-images-per-second.html)
 1. [Twitter Timeline](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html) - [Video](http://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 1. [Twitter](http://highscalability.com/blog/2011/12/19/how-twitter-stores-250-million-tweets-a-day-using-mysql.html) - [Video](http://www.youtube.com/watch?v=5cKTP36HVgI)
+1. [Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger](https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger)
+1. [Smart Alerts in ThirdEye, LinkedIn’s Real-Time Monitoring Platform](https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor)
 
 ### Database Tech
 1. [A Critique of Snapshot Isolation](https://drive.google.com/file/d/0B9GCVTp_FHJIMjJ2U2t6aGpHLTFUVHFnMTRUbnBwc2pLa1RN/edit)
@@ -34,3 +36,9 @@ permalink: /awesome-resources-bookmarks-distributed-systems-scalability-and-bigd
 4. [Rocksdb](https://github.com/facebook/rocksdb/)
 5. [LevelDB](https://github.com/google/leveldb)
 1. [Writing a MySQL storage engine from scratch](https://www.codeproject.com/articles/1107279/writing-a-mysql-storage-engine-from-scratch)
+1. [Is SQL beating NoSQL](https://dzone.com/articles/is-sql-beating-nosql)
+1. [Database Internal Architecture](https://architecture-database.blogspot.com/)
+
+### Data Center / Cluster Tech
+1. [Efficient, reliable cluster management at scale with Tupperware](https://code.fb.com/data-center-engineering/tupperware/)
+

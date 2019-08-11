@@ -8,3 +8,5 @@ permalink: /awesome-resources-bookmarks-electronics-diy-iot/
 1. [The amazing $1 Microcontroller](https://jaycarlson.net/microcontrollers/)
 1. [Evolution of the ESP8266 Party Button](https://hackaday.com/2018/03/28/evolution-of-the-esp8266-party-button/)
 1. [Alljoyn for IoT connectivity/discovery](https://allseenalliance.org/framework/documentation/learn/architecture)
+1. [Building a Toy Self-Driving Car](https://blog.floydhub.com/toy-self-driving-car-part-one/)
+

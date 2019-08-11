@@ -12,3 +12,5 @@ permalink: /awesome-resources-bookmarks-probability-statistics/
 1. [Elements of statistical learning book](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - [here](https://web.stanford.edu/~hastie/ElemStatLearn/)
 1. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 2. [Notes from Course on Probablistic Graphical Models](https://ermongroup.github.io/cs228-notes/)
+1. [Common statistical tests are linear models - or how to teach stats](https://lindeloev.github.io/tests-as-linear/)
+

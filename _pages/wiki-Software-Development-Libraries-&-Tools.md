@@ -12,3 +12,4 @@ permalink: /awesome-resources-bookmarks-software-development-libraries-tools/
 3. [Zeppelin](https://zeppelin.apache.org/)
 4. [Akka Samples](https://github.com/akka/akka-samples)
 5. [H2 Database - persistent embeddable db](http://www.h2database.com/)
+1. [Benchmark results of Kubernetes network plugins ](https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-updated-april-2019-4a9886efe9c4)

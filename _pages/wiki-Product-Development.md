@@ -8,3 +8,4 @@ permalink: /awesome-resources-bookmarks-product-development/
 1. [Role of a Product Manager](https://medium.com/swlh/the-role-of-a-product-manager-e0354b4b6845) - [Another one on the role](https://medium.com/all-things-product-management/product-manager-you-are-664d83ee702e)
 1. [The black box of Product Management](https://medium.com/the-black-box-of-product-management/the-black-box-of-product-management-3feb65db6ddb)
 1. Book - Hard Things About Hard Things
+1. [How to Build a Product Roadmap](https://hackernoon.com/how-to-build-a-product-roadmap-76b538923c6f)

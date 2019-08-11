@@ -47,7 +47,7 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 1. [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 1. [MIT Deep Learning course material](https://github.com/lexfridman/mit-deep-learning)
 1. [University of Toronto Self Driving Cars course](https://www.coursera.org/specializations/self-driving-cars)
-
+1. [Grokking deep learning resources](https://github.com/iamtrask/Grokking-Deep-Learning)
 
 
 ### Tutorials
@@ -78,6 +78,7 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 1. [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources)
 1. [Stanford Core NLP](https://stanfordnlp.github.io/CoreNLP/)
 1. [CMU Sphinx for Speech to Text](http://cmusphinx.sourceforge.net/wiki/tutorialoverview)
+1. [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?reload=9&v=tZ_Jrc_nRJY)
 
 ### Useful resources
 1. [Open AI](https://openai.com/)
@@ -86,6 +87,10 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 ### Recommendation
 1. [Netflix 3rd](http://sifter.org/~simon/journal/20061211.html)
 1. [Make your own Recommendation System](https://towardsdatascience.com/make-your-own-recommendation-system-b596d847296d)
+1. [Recommendation Systems at Scale — Making Grab’s everyday app super](https://towardsdatascience.com/recommendation-systems-at-scale-making-grabs-everyday-app-super-4762c5ad162)
+1. [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)
+1. [Beginner’s Recommendation Systems with Python](https://towardsdatascience.com/beginners-recommendation-systems-with-python-ee1b08d2efb6)
+
 
 #### Papers
 1. [Foundations of Deep Learning](https://github.com/pauli-space/foundations_for_deep_learning)
@@ -102,6 +107,9 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 1. [Videos to Learn Machine Learning and Deep Learning](https://medium.com/@MatthiasNannt/videos-to-learn-about-ai-machine-learning-deep-learning-fd6a536a8abd)
 2. <https://vimeo.com/170189199>
 1. [Deep Learning Online courses list](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
+1. [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 ](https://onlinehub.stanford.edu/youtube-cs230-deep-learning-winter-2019/181003-cs230-720)
+1. [cs234 reinforcement learning video](https://www.youtube.com/watch?v=FgzM3zpZ55o)
+1. [Best Deep Learning Courses](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/)
 
 ### Tools
 1. [SyntaxNet](https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html)
@@ -115,6 +123,7 @@ permalink: /awesome-resources-bookmarks-ai-and-machine-learning/
 
 ### Other
 1. [Speech to text Sphinx](http://stackoverflow.com/questions/23491630/hindi-speech-to-text-using-sphinx4-in-java)
-
+1. [Top 5 Machine Learning Projects for Beginners](https://hackernoon.com/top-5-machine-learning-projects-for-beginners-47b184e7837f)
+1. [6 interesting ML Project ideas for beginners](https://www.upgrad.com/blog/6-interesting-machine-learning-project-ideas-for-beginners/)
 
 

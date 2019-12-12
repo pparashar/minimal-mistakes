@@ -3,6 +3,7 @@ title: Awesome List - Computer Science & Mathematics
 permalink: /awesome-resources-bookmarks-computer-science-mathematics/
 ---
 ## Computer Science
+1. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 1. [MIT Course for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 1. [Theoretical Computer Science – An Introduction - pdf](http://www-cc.cs.uni-saarland.de/media/lectures/W1415/L-Grundz%C3%BCgederTheoretischenInformatik/ti_FfSJlCM.pdf)
 1. [Visual Algo](https://visualgo.net/en)
@@ -72,3 +73,4 @@ permalink: /awesome-resources-bookmarks-computer-science-mathematics/
 1. [Book - Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
 1. [Awesome lists](https://github.com/sindresorhus/awesome)
 1. [Princeton Mathematics for Computer Sc](https://www.cs.princeton.edu/courses/archive/spring14/cos340/LLM.pdf)
+1. [Algebra, Topology, Differential Calculus, andOptimization TheoryFor Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)

@@ -13,3 +13,7 @@ permalink: /awesome-resources-bookmarks-software-development-libraries-tools/
 4. [Akka Samples](https://github.com/akka/akka-samples)
 5. [H2 Database - persistent embeddable db](http://www.h2database.com/)
 1. [Benchmark results of Kubernetes network plugins ](https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-updated-april-2019-4a9886efe9c4)
+
+
+## Development
+1. [Q&A LinkedIn’s Nikolai Avteniev: Code Review in the Age of DevOps](https://thenewstack.io/qa-linkedins-nikolai-avteniev-code-review-in-the-age-of-devops/)

@@ -38,6 +38,7 @@ permalink: /awesome-resources-bookmarks-distributed-systems-scalability-and-bigd
 1. [Writing a MySQL storage engine from scratch](https://www.codeproject.com/articles/1107279/writing-a-mysql-storage-engine-from-scratch)
 1. [Is SQL beating NoSQL](https://dzone.com/articles/is-sql-beating-nosql)
 1. [Database Internal Architecture](https://architecture-database.blogspot.com/)
+1. [ Supporting 200 Billion Data Records in a Single RDS PostgreSQL Instance ](https://www.alibabacloud.com/blog/supporting-200-billion-data-records-in-a-single-rds-postgresql-instance_594279)
 
 ### Data Center / Cluster Tech
 1. [Efficient, reliable cluster management at scale with Tupperware](https://code.fb.com/data-center-engineering/tupperware/)

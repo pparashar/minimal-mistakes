@@ -15,6 +15,8 @@ permalink: /awesome-resources-bookmarks-organization-building/
 1. [Giving and getting feedback](https://a16z.com/2017/05/25/feedback-radical-candor/)
 1. [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202)
 1. [Mentors Are Good. Coaches Are Better](https://www.linkedin.com/pulse/mentors-good-coaches-better-adam-grant)
+1. [Want to innovate like Amazon? Here’s their formula](https://chiefmartec.com/2019/07/want-innovate-like-amazon-heres-formula/)
+
 ## Org Structures/Functional vs Unit
 1. [Organization Structure and transitioning](https://blog.learningbyshipping.com/2013/07/13/one-strategy-blog-post-reprint/)
 1. [Functional vs Unit Organization](https://medium.learningbyshipping.com/functional-versus-unit-organizations-6b82bfbaa57)
